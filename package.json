@@ -16,7 +16,8 @@
     "dotenv": "^8.2.0",
     "esm": "^3.2.25",
     "express": "^4.17.1",
-    "mongoose": "^5.11.13"
+    "mongoose": "^5.11.13",
+    "nodemailer": "^6.4.17"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
